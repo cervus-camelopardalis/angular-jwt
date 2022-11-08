@@ -1,0 +1,23 @@
+#sign-up-wrapper {
+    height: calc(100vh - 64px - 64px);
+}
+
+#sign-up {
+    width: 350px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+}
+
+.mat-form-field {
+    width: 300px;
+}
+
+.btn-sign-up {
+    width: 300px;
+    background-color: black;
+    color: white;
+}
+
+.smaller-font {
+    font-size: 90%;
+}
